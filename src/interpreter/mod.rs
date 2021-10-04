@@ -1,3 +1,5 @@
+pub mod value;
+
 use alloc::{collections::BTreeMap, rc::Rc};
 use core::{
     borrow::BorrowMut,
