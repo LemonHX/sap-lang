@@ -1,5 +1,5 @@
 # Sap lang
-# ** upgrading to v2 **
+# **🚧upgrading to v2**
 > yet another configuration oriented language
 > 
 > name comes from Sapphire which is the birthstone of september
